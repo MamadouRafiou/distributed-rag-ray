@@ -1,0 +1,6 @@
+ray>=2.55.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+datasets>=2.19.0
+numpy>=1.24.0
